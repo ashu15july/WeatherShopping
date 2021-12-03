@@ -1,0 +1,7 @@
+com\WeatherShopper\UI\Testcases\TC0001.class
+com\WeatherShopper\UI\Pages\Verification.class
+com\WeatherShopper\UI\Pages\Checkout.class
+com\WeatherShopper\UI\Pages\Stripe.class
+com\WeatherShopper\UI\Testcases\Runnable.class
+com\WeatherShopper\UI\Pages\HomePage.class
+com\WeatherShopper\UI\Pages\Cart.class
